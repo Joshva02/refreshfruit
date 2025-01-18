@@ -12,7 +12,7 @@ import 'slick-carousel/slick/slick-theme.css'
 const products = [
   { name: "'Mango Delight'", price: "'$5.99'", image: "'/placeholder.svg?height=200&width=200'" },
   { name: "'Pineapple Paradise'", price: "'$6.99'", image: "'/placeholder.svg?height=200&width=200'" },
-  { name: "'Tropical Mix'", price: "'$7.99'", image: "'/placeholder.svg?height=200&width=200'" },
+  { name: "'Tropical Dix'", price: "'$7.99'", image: "'/placeholder.svg?height=200&width=200'" },
   { name: "'Watermelon Wonder'", price: "'$5.99'", image: "'/placeholder.svg?height=200&width=200'" },
   { name: "'Berry Blast'", price: "'$6.99'", image: "'/placeholder.svg?height=200&width=200'" },
   { name: "'Citrus Sensation'", price: "'$7.99'", image: "'/placeholder.svg?height=200&width=200'" },
