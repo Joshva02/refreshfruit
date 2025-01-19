@@ -51,7 +51,7 @@ export function SiteHeader() {
                     <div className="text-white font-medium group-hover:text-yellow-400">Carnival Package</div>
                     <div className="text-zinc-400 text-sm">Special event packages for carnival season</div>
                   </Link>
-                  <Link href="/products/fruits" className="group grid gap-1 hover:bg-zinc-900 p-3 rounded-lg">
+                  <Link href="/menu" className="group grid gap-1 hover:bg-zinc-900 p-3 rounded-lg">
                     <div className="text-white font-medium group-hover:text-yellow-400">Fresh Fruits</div>
                     <div className="text-zinc-400 text-sm">Our selection of fresh cut fruits</div>
                   </Link>
