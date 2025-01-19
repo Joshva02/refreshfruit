@@ -1,12 +1,12 @@
 import { SiteHeader } from "@/components/Navbar"
 import { SiteFooter } from "@/components/Footer"
-import { MenuContent } from "@/components/menu-content"
+import { CheckoutContent } from "@/components/checkout-content"
 
-export default function MenuPage() {
+export default function CheckoutPage() {
   return (
     <div className="min-h-screen bg-black flex flex-col">
       <SiteHeader />
-      <MenuContent />
+      <CheckoutContent />
       <SiteFooter />
     </div>
   )

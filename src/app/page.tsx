@@ -1,7 +1,7 @@
-import { SiteHeader } from "@/components/site-header"
 import { HeroSection } from "@/components/hero-section"
-import { ProductPreviewCarousel } from "@/components/product-preview-carousel"
-import { SiteFooter } from "@/components/site-footer"
+import { SiteFooter } from "@/components/Footer"
+import { CarouselDemo } from "@/components/Carousel"
+import { SiteHeader } from "@/components/Navbar"
 
 export default function Home() {
   return (
@@ -9,7 +9,7 @@ export default function Home() {
       <SiteHeader />
       <div className="flex-grow">
         <HeroSection />
-        <ProductPreviewCarousel />
+        <CarouselDemo />
       </div>
       <SiteFooter />
     </main>
